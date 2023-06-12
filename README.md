@@ -1,1 +1,1 @@
-# t2i-adapters
+# T2I - ADAPTERS Experiments Reproduce
