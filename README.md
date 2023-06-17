@@ -11,13 +11,14 @@ Changed parts:
 - data generation has been done by mmpose implementation
 - For the extra model zoo please check: https://github.com/TencentARC/T2I-Adapter (VQGAN, SD1.4)
 
-<div align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/17445847/225639246-26ee67a9-a9d9-47e4-b3bf-813d570e3d96.png" height=320>
 
-  🔥🔥🔥 Support **CoAdapter** (**Co**mposable **Adapter**). <br>You can find the details and demos about CoAdapter from [coadapter.md](docs/coadapter.md)
 
-  <!-- Try the updated Huggingface demo  [![Huggingface Gradio](https://img.shields.io/static/v1?label=Demo&message=Huggingface%20Gradio&color=orange)](https://huggingface.co/spaces/Adapter/T2I-Adapter). -->
-
-</div>
+  <img src="https://user-images.githubusercontent.com/17445847/225656254-f0aff320-42fc-49bf-b8ff-9a779ad68db1.png" height=450>
+  <img src="https://user-images.githubusercontent.com/17445847/225658981-51d775cd-c635-457f-8e60-24848369ff51.png" height=450>
+  <!-- You can find more examples [here](docs/examples.md) -->
+</p>
 # ⏬ Download Models
 
 Put the downloaded models in the `T2I-Adapter/models` folder.
