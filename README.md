@@ -9,7 +9,7 @@ Changed parts:
 - Dataset: https://laion.ai/blog/laion-aesthetics/
 - train, test part re-implemented
 - data generation has been done by mmpose implementation
-- 
+- For the extra model zoo please check: https://github.com/TencentARC/T2I-Adapter (VQGAN, SD1.4)
 # ⏬ Download Models
 
 Put the downloaded models in the `T2I-Adapter/models` folder.
