@@ -16,7 +16,7 @@ Changed parts:
   <!-- You can find more examples [here](docs/examples.md) -->
 </p>
 
-# ⏬ Download Models
+# Download Models
 
 Put the downloaded models in the `T2I-Adapter/models` folder.
 
@@ -25,7 +25,7 @@ Put the downloaded models in the `T2I-Adapter/models` folder.
 3. For the sake of demonstration, I have added the repository MMPose inference script.
 4. You can find easy implementation in the Huggingface for the MMPose repository.
 
-# 🔧 Dependencies and Installation
+# Dependencies and Installation
 
 - Python >= 3.6 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 - [PyTorch >= 1.4](https://pytorch.org/)
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```
 - If you want to use the full function of keypose-guided generation, you need to install MMPose. For details please refer to <https://github.com/open-mmlab/mmpose>.
 
-# 💻 How to Test
+# How to Test
 
 #### **Keypose Adapter**
 
