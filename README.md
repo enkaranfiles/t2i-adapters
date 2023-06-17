@@ -10,6 +10,14 @@ Changed parts:
 - train, test part re-implemented
 - data generation has been done by mmpose implementation
 - For the extra model zoo please check: https://github.com/TencentARC/T2I-Adapter (VQGAN, SD1.4)
+
+<div align="center">
+
+  🔥🔥🔥 Support **CoAdapter** (**Co**mposable **Adapter**). <br>You can find the details and demos about CoAdapter from [coadapter.md](docs/coadapter.md)
+
+  <!-- Try the updated Huggingface demo  [![Huggingface Gradio](https://img.shields.io/static/v1?label=Demo&message=Huggingface%20Gradio&color=orange)](https://huggingface.co/spaces/Adapter/T2I-Adapter). -->
+
+</div>
 # ⏬ Download Models
 
 Put the downloaded models in the `T2I-Adapter/models` folder.
