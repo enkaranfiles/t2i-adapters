@@ -44,6 +44,6 @@ python test.py --which_cond keypose --cond_path examples/keypose/person_keypose.
 ```
 
 <p align="center">
-  <img "00006_openpose.png" height=320>
+  <img 00006_openpose.png height=320>
   <!-- You can find more examples [here](docs/examples.md) -->
 </p>
