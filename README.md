@@ -2,8 +2,14 @@
 
 T2I-Adapters possess practical advantages such as composability and generalization ability. Extensive experiments will be
 conducted to assess the quality of the generated outputs and explore various applications. This project seeks to replicate and validate the original study’s results, contributing to the advancement of T2I models. Furthermore, it aims to provide
-additional insights and potential improvements for future research in this field
+additional insights and potential improvements for future research in this field.
 
+Changed parts:
+- Dataset has chosen differently from the orginal study. (Version 2 and overall rate over 6.5)
+- Dataset: https://laion.ai/blog/laion-aesthetics/
+- train, test part re-implemented
+- data generation has been done by mmpose implementation
+- 
 # ⏬ Download Models
 
 Put the downloaded models in the `T2I-Adapter/models` folder.
