@@ -42,6 +42,7 @@ pip install -r requirements.txt
 # when input pose image
 python test.py --which_cond keypose --cond_path examples/keypose/person_keypose.png --cond_inp_type keypose --prompt "astronaut, best quality, extremely detailed" --sd_ckpt models/v1-5-pruned-emaonly.ckpt --resize_short_edge 512 --cond_tau 1.0 --cond_weight 1.0 --n_samples 2 --adapter_ckpt models/best_checkpoint_t2iadapter.pth
 ```
+![Alt Text](00006_openpose.png)
 
 <p align="center">
   <img 00006_openpose.png height=320>
