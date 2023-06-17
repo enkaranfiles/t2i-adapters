@@ -46,3 +46,6 @@ python test.py --which_cond keypose --cond_path examples/keypose/person_keypose.
 ![Alt Text](00006_openpose.png)
 ### Produced Result
 ![Alt Text](00006_result.png)
+### Inference Step
+Prompt = "the lady walks in the forest"
+
