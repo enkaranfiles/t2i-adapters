@@ -1,5 +1,9 @@
 # T2I - ADAPTERS Experiments Reproduce
 
+T2I-Adapters possess practical advantages such as composability and generalization ability. Extensive experiments will be
+conducted to assess the quality of the generated outputs and explore various applications. This project seeks to replicate and validate the original study’s results, contributing to the advancement of T2I models. Furthermore, it aims to provide
+additional insights and potential improvements for future research in this field
+
 # ⏬ Download Models
 
 Put the downloaded models in the `T2I-Adapter/models` folder.
@@ -29,4 +33,3 @@ python test.py --which_cond keypose --cond_path examples/sketch/girl.jpeg --cond
 # when input pose image
 python test.py --which_cond keypose --cond_path examples/keypose/person_keypose.png --cond_inp_type keypose --prompt "astronaut, best quality, extremely detailed" --sd_ckpt models/v1-5-pruned-emaonly.ckpt --resize_short_edge 512 --cond_tau 1.0 --cond_weight 1.0 --n_samples 2 --adapter_ckpt models/t2iadapter_keypose_sd14v1.pth
 ```
-![Image](t2i-adapters/assets/mmpose.jpeg)
