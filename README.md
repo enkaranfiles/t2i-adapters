@@ -1,4 +1,4 @@
-# T2I - ADAPTERS Experiments Reproduce
+# T2I - ADAPTERS: Paper Replicate
 
 T2I-Adapters possess practical advantages such as composability and generalization ability. Extensive experiments will be
 conducted to assess the quality of the generated outputs and explore various applications. This project seeks to replicate and validate the original study’s results, contributing to the advancement of T2I models. Furthermore, it aims to provide
